@@ -1,0 +1,202 @@
+[
+    {
+        "title": "1. Two Sum",
+        "link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "title": "2. Add Two Numbers",
+        "link": "https://leetcode.com/problems/add-two-numbers/"
+    },
+    {
+        "title": "3. Longest Substring Without Repeating Characters",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "title": "4. Median of Two Sorted Arrays",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "title": "5. Longest Palindromic Substring",
+        "link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+        "title": "6. Zigzag Conversion",
+        "link": "https://leetcode.com/problems/zigzag-conversion/"
+    },
+    {
+        "title": "7. Reverse Integer",
+        "link": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "title": "8. String to Integer (atoi)",
+        "link": "https://leetcode.com/problems/string-to-integer-atoi/"
+    },
+    {
+        "title": "9. Palindrome Number",
+        "link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "title": "10. Regular Expression Matching",
+        "link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "title": "11. Container With Most Water",
+        "link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "title": "12. Integer to Roman",
+        "link": "https://leetcode.com/problems/integer-to-roman/"
+    },
+    {
+        "title": "13. Roman to Integer",
+        "link": "https://leetcode.com/problems/roman-to-integer/"
+    },
+    {
+        "title": "14. Longest Common Prefix",
+        "link": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+        "title": "15. 3Sum",
+        "link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+        "title": "16. 3Sum Closest",
+        "link": "https://leetcode.com/problems/3sum-closest/"
+    },
+    {
+        "title": "17. Letter Combinations of a Phone Number",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "title": "18. 4Sum",
+        "link": "https://leetcode.com/problems/4sum/"
+    },
+    {
+        "title": "19. Remove Nth Node From End of List",
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+        "title": "20. Valid Parentheses",
+        "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "title": "21. Merge Two Sorted Lists",
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+        "title": "22. Generate Parentheses",
+        "link": "https://leetcode.com/problems/generate-parentheses/"
+    },
+    {
+        "title": "23. Merge k Sorted Lists",
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+        "title": "24. Swap Nodes in Pairs",
+        "link": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+    },
+    {
+        "title": "25. Reverse Nodes in k-Group",
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+    },
+    {
+        "title": "26. Remove Duplicates from Sorted Array",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+    },
+    {
+        "title": "27. Remove Element",
+        "link": "https://leetcode.com/problems/remove-element/"
+    },
+    {
+        "title": "28. Find the Index of the First Occurrence in a String",
+        "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+    },
+    {
+        "title": "29. Divide Two Integers",
+        "link": "https://leetcode.com/problems/divide-two-integers/"
+    },
+    {
+        "title": "30. Substring with Concatenation of All Words",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "title": "31. Next Permutation",
+        "link": "https://leetcode.com/problems/next-permutation/"
+    },
+    {
+        "title": "32. Longest Valid Parentheses",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+    },
+    {
+        "title": "33. Search in Rotated Sorted Array",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "title": "34. Find First and Last Position of Element in Sorted Array",
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+    },
+    {
+        "title": "35. Search Insert Position",
+        "link": "https://leetcode.com/problems/search-insert-position/"
+    },
+    {
+        "title": "36. Valid Sudoku",
+        "link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "title": "37. Sudoku Solver",
+        "link": "https://leetcode.com/problems/sudoku-solver/"
+    },
+    {
+        "title": "38. Count and Say",
+        "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+        "title": "39. Combination Sum",
+        "link": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+        "title": "40. Combination Sum II",
+        "link": "https://leetcode.com/problems/combination-sum-ii/"
+    },
+    {
+        "title": "41. First Missing Positive",
+        "link": "https://leetcode.com/problems/first-missing-positive/"
+    },
+    {
+        "title": "42. Trapping Rain Water",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "title": "43. Multiply Strings",
+        "link": "https://leetcode.com/problems/multiply-strings/"
+    },
+    {
+        "title": "44. Wildcard Matching",
+        "link": "https://leetcode.com/problems/wildcard-matching/"
+    },
+    {
+        "title": "45. Jump Game II",
+        "link": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+        "title": "46. Permutations",
+        "link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "title": "47. Permutations II",
+        "link": "https://leetcode.com/problems/permutations-ii/"
+    },
+    {
+        "title": "48. Rotate Image",
+        "link": "https://leetcode.com/problems/rotate-image/"
+    },
+    {
+        "title": "49. Group Anagrams",
+        "link": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+        "title": "50. Pow(x, n)",
+        "link": "https://leetcode.com/problems/powx-n/"
+    }
+]
